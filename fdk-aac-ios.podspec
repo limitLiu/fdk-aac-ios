@@ -1,11 +1,11 @@
 libfdkaac = 'libfdk-aac'
-NAME = "fdk-aac-ios"
-VERSION = "2.0.2"
+name = "fdk-aac-ios"
+version = "2.0.2"
 
 Pod::Spec.new do |s|
 
-  s.name         = "#{NAME}"
-  s.version      = "#{VERSION}"
+  s.name         = "#{name}"
+  s.version      = "#{version}"
   s.summary      = "A pod repo of 2.0.2 fdk-aac static libraries for ios."
   s.description  = "FFmpeg code base"
 
